@@ -1,0 +1,5 @@
+sources:
+  - name: "Gigazine"
+    url: "https://gigazine.net/news/rss_2.0/"
+    type: "rss"
+    category: "tech"
