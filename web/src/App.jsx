@@ -5,7 +5,7 @@ function App() {
   const [generatedAt, setGeneratedAt] = useState("");
 
   useEffect(() => {
-    fetch("/latest.json")
+    fetch("/daily-digest/latest.json")
       .then((res) => res.json())
       .then((data) => {
         setArticles(data.articles || []);
