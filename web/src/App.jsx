@@ -5,7 +5,8 @@ function App() {
   const [generatedAt, setGeneratedAt] = useState("");
 
   useEffect(() => {
-    fetch("/daily-digest/latest.json")
+    const baseUrl = import.meta.env.BASE_URL;
+    fetch(`${baseUrl}latest.json`)
       .then((res) => res.json())
       .then((data) => {
         setArticles(data.articles || []);
