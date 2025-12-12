@@ -1,5 +1,32 @@
+keywords:
+  - "建築"
+  - "デザイン"
+  - "AI"
+  - "アーキテクチャ"
+  - "Architecture"
+  - "Design"
+
 sources:
-  - name: "Gigazine"
-    url: "https://gigazine.net/news/rss_2.0/"
+  - name: "ArchDaily"
+    url: "https://www.archdaily.com/rss"
     type: "rss"
-    category: "tech"
+    topics: ["architecture", "projects"]
+    lang: "en"
+
+  - name: "Dezeen"
+    url: "https://www.dezeen.com/feed/"
+    type: "rss"
+    topics: ["architecture", "design"]
+    lang: "en"
+
+  - name: "新建ハウジングDIGITAL"
+    url: "https://www.s-housing.jp/feed"
+    type: "rss"
+    topics: ["housing", "japan"]
+    lang: "ja"
+
+  - name: "日経アーキテクチュア (建築)"
+    url: "https://xtech.nikkei.com/rss/architecture.rdf"
+    type: "rss"
+    topics: ["business", "japan"]
+    lang: "ja"

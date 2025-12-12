@@ -1,4 +1,6 @@
-requests
+feedparser
 PyYAML
 python-dateutil
-feedparser
+google-generativeai
+python-dotenv
+supabase

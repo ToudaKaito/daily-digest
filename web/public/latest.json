@@ -1,86 +1,114 @@
 {
-  "generated_at": "2025-11-25T23:27:36.721932Z",
-  "total": 10,
+  "generated_at": "2025-12-11T04:51:11.394899Z",
+  "total": 12,
   "articles": [
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "AIにテキストが読み取られるのを防ぐために目に見えないUnicode文字を挿入する「Gibberifier」",
-      "url": "https://gigazine.net/news/20251126-gibberifier-stun-llm-random-unicode/",
-      "published_at": "2025-11-26T08:00:00+09:00",
-      "summary": "近年はChatGPTやGeminiなどの生成AIツールが普及していますが、学校の課題レポートをAIに丸投げして生成したり、企業の機密事項や個人情報を生成AIに入力してしまったりと、問題があるAIの使い方をする人も大勢います。そこで開発者のwdpatti氏が、テキストに目に見えないUnicode文字を挿入し、AIに読み取られるのを妨害するツール「Gibberifier」を開発しました。<p><b><a href=\"https://gigazine.net/news/20251126&#45;gibberifier&#45;stun&#45;llm&#45;random&#45;unicode/\">続きを読む...</a></b></p>"
+      "source": "Dezeen",
+      "category": "",
+      "title": "Fisher & Paykel set to create \"forest-like\" installation at Salone del Mobile",
+      "url": "https://www.dezeen.com/2025/12/10/fisher-paykel-eurocucina-salone-del-mobile-nature-ritual/",
+      "image_url": "http://static.dezeen.com/uploads/2025/12/Fisher-Paykel_dezeen_2364_col_0-1-411x411.jpg",
+      "published_at": "2025-12-10T21:00:04+00:00",
+      "summary": "フィッシャー＆パイケルは、ミラノサローネ内のユーロクチーナ2026に向け、建築設計事務所Calvi Brambilla & Partnersらと協働し、自然に着想を得た「森林をイメージした」展示計画を発表しました。ハイエンドなキッチン製品の新たな提案として注目されます。\n\n（108文字）"
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "「ロジャー・ラビット」の著作権がディズニーから生みの親に返還される",
-      "url": "https://gigazine.net/news/20251125-roger-rabbit-copyright-reverts-creator-gary-k-wolf/",
-      "published_at": "2025-11-25T21:00:00+09:00",
-      "summary": "「ロジャー・ラビット」の著作権がディズニーの手から、生みの親であるゲイリー・K・ウルフ氏に戻ったことが明らかになりました。<p><b><a href=\"https://gigazine.net/news/20251125&#45;roger&#45;rabbit&#45;copyright&#45;reverts&#45;creator&#45;gary&#45;k&#45;wolf/\">続きを読む...</a></b></p>"
+      "source": "Dezeen",
+      "category": "",
+      "title": "AMMA completes mass-timber modular school \"that breathes\" in Barbados",
+      "url": "https://www.dezeen.com/2025/12/10/amma-mass-timber-barbados-school-oceana/",
+      "image_url": "http://static.dezeen.com/uploads/2025/12/oceana-innovation-hub-amma-studio-barbados_dezeen_2364_sq-411x411.jpg",
+      "published_at": "2025-12-10T20:00:27+00:00",
+      "summary": "米国のAMMAスタジオは、バルバドスに「呼吸する」学校、Oceana Innovation Hubを完成させた。\n\n構造材に大断面集成材（マス・ティンバー）を採用し、部材をスペインで製作後、モジュール式で現地組み立てを実施。地域の伝統建築を反映した、環境負荷の少ない持続可能な教育施設の建設事例として注目される。"
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "「本体を買うだけで各種配信サービスに無制限アクセス可能」とアピールするAndroid TVデバイスは安全なのか？",
-      "url": "https://gigazine.net/news/20251125-superbox-android-tv-streaming/",
-      "published_at": "2025-11-25T20:00:00+09:00",
-      "summary": "テレビやディスプレイに接続して各種配信サービスを利用可能にするAndroid TV対応デバイスが増えています。Android TV対応デバイスの中には「本体を買うだけで各種配信サービスに無制限アクセス可能」とアピールする製品もあるのですが、セキュリティ専門家のブライアン・クレブス氏はセキュリティ上のリスクを警告しています。<p><b><a href=\"https://gigazine.net/news/20251125&#45;superbox&#45;android&#45;tv&#45;streaming/\">続きを読む...</a></b></p>"
+      "source": "Dezeen",
+      "category": "",
+      "title": "Prismatics tiles by Johnson Tiles",
+      "url": "https://www.dezeen.com/2025/12/10/prismatics-tiles-johnson-tiles-dezeen-showroom/",
+      "image_url": "http://static.dezeen.com/uploads/2025/12/prismatics-tiles-johnson-tiles-dezeen-showroom_dezeen_2364_col_0-411x411.jpg",
+      "published_at": "2025-12-10T19:00:48+00:00",
+      "summary": "英国のジョンソン・タイルズは、全色彩を網羅する釉薬付き陶磁器タイル「Prismatics」を発表しました。本コレクションは、鮮やかな色域を特徴とし、光沢とサテンの2種類の仕上げで提供され、建築デザインにおける色の選択肢を大幅に広げます。"
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "電源が入ってないSSDは徐々にデータを失う危険性があり長期保存用として難あり",
-      "url": "https://gigazine.net/news/20251125-unpowered-ssds/",
-      "published_at": "2025-11-25T19:00:00+09:00",
-      "summary": "高速であること、便利であること、消費電力も少ないことなど、いろいろな理由から、日常的に使用する記憶装置としてはHDDよりもSSDが使われるようになっています。しかし、データを長期間にわたり保存することを考えた場合、SSDは信頼に足りない点があることが指摘されています。<p><b><a href=\"https://gigazine.net/news/20251125&#45;unpowered&#45;ssds/\">続きを読む...</a></b></p>"
+      "source": "ArchDaily",
+      "category": "",
+      "title": "Villa K / KIRYU ATELIER + T Architects Co.",
+      "url": "https://www.archdaily.com/1013776/villa-k-kiryu-atelier-plus-t-architects-co",
+      "image_url": "https://images.adsttc.com/media/images/65dc/a04f/d898/3c5e/912b/d892/medium_jpg/villa-k-kiryu-atelier-plus-t-architects-co_15.jpg?1708957789",
+      "published_at": "2025-12-10T17:00:00+00:00",
+      "summary": "「Villa K」（桐生アトリエ＋Tアーキテクツ）は、森と川の豊かな自然景観の中に位置する。特に古い日本伝統の木造建築である既存棟に隣接して新築された点が特徴。この設計は、地域の自然環境と歴史的文脈に対し、新旧の調和と建築的な対話を実現するアプローチを必要とした。（126文字）"
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "2025年11月25日のヘッドラインニュース",
-      "url": "https://gigazine.net/news/20251125-headline/",
-      "published_at": "2025-11-25T18:40:00+09:00",
-      "summary": "PC周辺機器メーカーのサンワサプライから、1つのボタンに最大8つの機能を割り当てることができるBluetoothプログラマブルボタン「400-MAB211BK」が2025年11月25日(火)に登場しました。<p><b><a href=\"https://gigazine.net/news/20251125&#45;headline/\">続きを読む...</a></b></p>"
+      "source": "ArchDaily",
+      "category": "",
+      "title": "The Mountain Chamber / Erdegard Arkitekter",
+      "url": "https://www.archdaily.com/1036839/the-mountain-chamber-erdegard-arkitekter",
+      "image_url": "https://images.adsttc.com/media/images/6939/39dc/e123/2a00/01c3/8540/medium_jpg/01_The_Mountain_Chamber_Photo_Anna_Kristinsdottir.jpg?1765358087",
+      "published_at": "2025-12-10T12:00:00+00:00",
+      "summary": "Erdegard Arkitekterは、カレベックス・テラッサー内の岩盤深部に、地下空間へ誘う「山室（マウンテン・チェンバー）」を設計した。\n\n彫刻的な一枚岩（モノリス）の入口は、建築と芸術、そして未来的な要素を融合させた特異なデザインで、岩内に隠された内部世界への導線となっている。"
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "無炭酸ゲーミングエナドリ「ZONe ENERGY GAMING 24/7」はマンゴーの味が濃い無炭酸のマンゴーラッシーフレーバー",
-      "url": "https://gigazine.net/news/20251125-zone-energy-gaming/",
-      "published_at": "2025-11-25T17:26:00+09:00",
-      "summary": "エナジードリンクのZONe ENERGYシリーズに「ZONe ENERGY GAMING 24/7」が2025年11月25日に加わりました。PlayStationや日清カレーメシとのコラボ製品で、パッケージにはDualSenseなどがプリントされています。味は甘くて濃いマンゴーラッシーフレーバーとのことで、実際に飲んで味を確かめてみました。<p><b><a href=\"https://gigazine.net/news/20251125&#45;zone&#45;energy&#45;gaming/\">続きを読む...</a></b></p>"
+      "source": "Dezeen",
+      "category": "",
+      "title": "Exposed ducts and server rooms reveal the \"heartbeat\" of AI data centre in Beijing",
+      "url": "https://www.dezeen.com/2025/12/10/ai-data-centre-beijing-lllab/",
+      "image_url": "http://static.dezeen.com/uploads/2025/11/ai-data-centre-beijing-lllab-arch-exist-sq_dezeen_2364_col_0-411x411.jpg",
+      "published_at": "2025-12-10T11:30:20+00:00",
+      "summary": "A steel grid wrapped in LED netting cloaks the metal ductwork of Spark 716, an AI data centre and \"computing power park\" in the centre of Beijing, completed by local architecture practice LLLAB. Locat…"
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "GoogleはChromeOSをAndroidベースのPC向け新OS「Aluminium OS」に置き換えようとしている",
-      "url": "https://gigazine.net/news/20251125-google-aluminium-os/",
-      "published_at": "2025-11-25T15:52:00+09:00",
-      "summary": "Androidはスマートフォンだけでなく、タブレットや時計、テレビ、自動車など多岐にわたって利用されていますが、従来のPC市場ではほとんど存在感がありませんでした。GoogleはこれまでWindowsやmacOSに対抗しようとしてきましたが、ChromeOSは依然としてシェアの差が大きいままです。この差を埋めるために、同社はChromeOSとAndroidを統合した「Aluminium OS」というコードネームのデスクトッププラットフォームを開発していると報じられています。<p><b><a href=\"https://gigazine.net/news/20251125&#45;google&#45;aluminium&#45;os/\">続きを読む...</a></b></p>"
+      "source": "Dezeen",
+      "category": "",
+      "title": "OEB Architects unveils full-width London house extension designed as a blank canvas",
+      "url": "https://www.dezeen.com/2025/12/10/full-width-house-extension-oeb-architects/",
+      "image_url": "http://static.dezeen.com/uploads/2025/12/simple-addition-oeb_dezeen_2364_sq_1-411x411.jpg",
+      "published_at": "2025-12-10T10:00:58+00:00",
+      "summary": "Instead of the typical L-shaped extension, OEB Architects added a \"full-width shed\" in this rework of a family home in north London. A Simple Addition, as it's named, adds a generous new kitchen and d…"
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "セキュリティ特化型OS「GrapheneOS」が「国家による脅迫を受けた」としてフランスから撤退",
-      "url": "https://gigazine.net/news/20251125-grapheneos-france/",
-      "published_at": "2025-11-25T15:00:00+09:00",
-      "summary": "GrapheneOSは、オープンソースで開発されているセキュリティとプライバシー保護に特化したAndroid系OSで、Google Pixelなどを安全に使うために利用されています。GrapheneOSはそのセキュリティの高さから麻薬密売人などに使用されることがあり、フランス政府は以前から「GrapheneOSは犯罪者向けのもの」と表現するなど敵対視していました。そのようなフランス政府やメディアの姿勢から、GrapheneOSはフランスに置いていたサーバーを移転することを発表しました。<p><b><a href=\"https://gigazine.net/news/20251125&#45;grapheneos&#45;france/\">続きを読む...</a></b></p>"
+      "source": "ArchDaily",
+      "category": "",
+      "title": "Long Lake Cottage / Dubbeldam Architecture + Design",
+      "url": "https://www.archdaily.com/1036759/long-lake-cottage-dubbeldam-architecture-plus-design",
+      "image_url": "https://images.adsttc.com/media/images/6937/1c4d/243c/4d16/dac7/b8fe/medium_jpg/long-lake-cottage-dubbeldam-architecture-plus-design_2.jpg?1765219424",
+      "published_at": "2025-12-10T10:00:00+00:00",
+      "summary": "Dubbeldam設計の「ロングレイク・コテージ」は、オンタリオ州の静寂な湖畔に位置する電力自給型の別荘です。自然素材を基調とし、森林景観を活かすため居住空間を樹木の中に高床式で配置。環境負荷の低い、孤立した場所での洗練された生活を実現しています。"
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "Googleの広告技術独占を解体するための強制売却を命じる判決が下る可能性大",
-      "url": "https://gigazine.net/news/20251125-google-ad-tech-monopoly-judge/",
-      "published_at": "2025-11-25T14:34:00+09:00",
-      "summary": "Googleの広告技術独占を巡る司法省対Google裁判で最終弁論が行われ、Googleの技術を分割し売却するよう求める司法省の要求の判断が判事の手に委ねられることになりました。判決は2026年になる可能性が高いとのことです。<p><b><a href=\"https://gigazine.net/news/20251125&#45;google&#45;ad&#45;tech&#45;monopoly&#45;judge/\">続きを読む...</a></b></p>"
+      "source": "新建ハウジングDIGITAL",
+      "category": "",
+      "title": "二級・木造建築士の合格者を発表　二級合格率22.6％　木造は38.4％",
+      "url": "https://www.s-housing.jp/archives/405959?utm_source=rss&utm_medium=rss&utm_campaign=%25e4%25ba%258c%25e7%25b4%259a%25e3%2583%25bb%25e6%259c%25a8%25e9%2580%25a0%25e5%25bb%25ba%25e7%25af%2589%25e5%25a3%25ab%25e3%2581%25ae%25e5%2590%2588%25e6%25a0%25bc%25e8%2580%2585%25e3%2582%2592%25e7%2599%25ba%25e8%25a1%25a8%25e3%2580%2580%25e4%25ba%258c%25e7%25b4%259a%25e5%2590%2588%25e6%25a0%25bc%25e7%258e%258722-6",
+      "image_url": null,
+      "published_at": "2025-12-10T09:42:44+00:00",
+      "summary": "建築技術教育普及センターは12月2日、二級建築士・木造建築士試験「設計製図試験」の合格者を発表した。 二級建築士の設計製図試験は9月14日、全国56会場で実施。1万6人（製図のみ4214人）が受験し、4645人が合格した..."
     },
     {
-      "source": "Gigazine",
-      "category": "tech",
-      "title": "スマート家電ユーザーが実際に使っている家電と使ってみたい家電にはどんな違いがあるのか？GIGAZINE読者にスマートホームの理想と現実を聞いてみた",
-      "url": "https://gigazine.net/news/20251125-gigazine-user-smart-home/",
-      "published_at": "2025-11-25T09:00:00+09:00",
-      "summary": "GIGAZINEではお掃除ロボットやIoTに対応していないデバイスでもスマートフォンから遠隔操作できるようになるスマートプラグなど、さまざまなスマート家電をレビューしています。そのためスマート家電ユーザーも多いはずということで、その割合や「本当に使いたいスマート家電」について調べてみました。<p><b><a href=\"https://gigazine.net/news/20251125&#45;gigazine&#45;user&#45;smart&#45;home/\">続きを読む...</a></b></p>"
+      "source": "ArchDaily",
+      "category": "",
+      "title": "Farewell to Masters: Remembering the Architects We Lost in 2025",
+      "url": "https://www.archdaily.com/1036574/farewell-to-masters-remembering-the-architects-we-lost-in-2025",
+      "image_url": "https://images.adsttc.com/media/images/692d/f651/304d/2e4f/3cf3/b43e/medium_jpg/farewell-to-masters-remembering-the-figures-we-lost-in-2025_4.jpg?1764619870",
+      "published_at": "2025-12-10T07:30:00+00:00",
+      "summary": "2025年に逝去した、建築界の発展に多大な影響を与えた巨匠たちの功績を偲びます。毎年生まれる新たな潮流と、数十年にわたり専門分野の礎を築いた偉大な声の喪失を対比させ、建築文化の継承と進化の重要性を再認識させます。"
+    },
+    {
+      "source": "ArchDaily",
+      "category": "",
+      "title": "The Apple House / Okra Studio",
+      "url": "https://www.archdaily.com/1036789/the-apple-house",
+      "image_url": "https://images.adsttc.com/media/images/6938/0583/e123/2a00/01c3/8388/medium_jpg/93-Serge_Hill-Web_Res-3.jpg?1765279166",
+      "published_at": "2025-12-10T07:00:00+00:00",
+      "summary": "Apple House（ハットフォードシャー）は、ランドスケープデザイン事務所トム・スチュアート・スミス・スタジオによる植物図書室内に組み込まれた、教育とウェルビーイング（心身の健康）を目的とした拠点である。設計はOkra Studioが担当した。"
+    },
+    {
+      "source": "ArchDaily",
+      "category": "",
+      "title": "How Do Composites Make Complex Designs Constructible?",
+      "url": "https://www.archdaily.com/1035667/how-do-composites-make-complex-designs-constructible",
+      "image_url": "https://images.adsttc.com/media/images/6932/d137/e586/1b01/7e8d/21d0/medium_jpg/how-do-composites-make-complex-designs-constructible_20.jpg?1764938058",
+      "published_at": "2025-12-10T06:45:00+00:00",
+      "summary": "建築分野で複合材料の利用が拡大。航空宇宙分野由来のこの素材は、繊維と樹脂などの組み合わせにより、従来の素材では難しかった複雑な形状の設計・施工を可能にし、現代建築に不可欠な役割を担いつつあります。"
     }
   ]
 }

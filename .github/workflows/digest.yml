@@ -1,24 +1,14 @@
-name: Build & Deploy Daily Digest
+name: Collect Daily Articles
 
 on:
-  push:
-    branches: [ main ]
   workflow_dispatch:
   schedule:
     # 毎日 07:00 JST（= 前日の 22:00 UTC）
     - cron: "0 22 * * *"
 
 jobs:
-  build-and-deploy:
+  collect-articles:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -35,32 +25,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generate latest.json
+      - name: Collect articles to Supabase
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: |
           python app/ingest.py
-          mkdir -p web/public
-          cp data/latest.json web/public/latest.json
-
-      # ---- Node / React（フロント）----
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install frontend dependencies
-        working-directory: web
-        run: npm ci
-
-      - name: Build frontend
-        working-directory: web
-        run: npm run build
-
-      # ---- GitHub Pages へデプロイ ----
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: web/dist
-
-      - name: Deploy to GitHub Pages
-        id: deploy
-        uses: actions/deploy-pages@v4
