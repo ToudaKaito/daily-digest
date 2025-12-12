@@ -6,7 +6,7 @@ import ProtectedRoute from './components/ProtectedRoute';
 
 function App() {
   return (
-    <BrowserRouter basename="/daily-digest">
+    <BrowserRouter>
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route
